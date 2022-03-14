@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @mgarciamoya
-- 👀 I’m interested in energy and automation engineering.
-- 🌱 I’m currently learning new automation and programming skills. (and to speak German)
 - 📫 How to reach me: m.perez@green-fusion.de
 
 <!---
